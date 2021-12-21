@@ -1,0 +1,12 @@
+index :
+	la-chouette-agence : La chouette agence
+	logo : Logo de la chouette agence
+	title : Devenez visible et attractif grâce à la chouette agence
+	Citation : Eloge de Maxime Guibard
+	title2 : Les réalisation de la chouette agence
+	1 : Refonte d'un site web pour un journal local
+	2 : Création d'un site web pour photographes
+	3 : Création d'un site web pour voyageur
+	4 : Création d'un site web pour agence de mariage
+page2 :
+	la-chouette-agence : Lyon web design logo
