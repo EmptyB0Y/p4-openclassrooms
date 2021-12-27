@@ -681,7 +681,7 @@ label,
 a {
     text-decoration: none;
     font-family: "helvetica";
-    font-weight: bold;
+    font-weight: 400;
     color: black!important;
 }
 
@@ -708,7 +708,7 @@ a {
 }
 
 p {
-    font-size: 14px;
+    font-size: 14pt;
 }
 
 .tight-width-whitespace {
